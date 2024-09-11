@@ -1,0 +1,2 @@
+#Uploaded to Github recently, but finished it over the summer. Utilized HTML, CSS and Javascript to emulate the functions of MyFitnessPal. So far I have implemented the ability to add foods and its calorie count then it tracks total calories with a fully fledged edit and delete button
+#Plans to implement more features, such as a day of the week feature, protein tracker, cleaner UI, etc. Does not have ads, which is an improvement compared to the original app. Very useful to me when I do not feel like opening an ad infested MyFitnessPal and need a quick way to track calories
